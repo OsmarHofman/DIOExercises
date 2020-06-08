@@ -1,0 +1,13 @@
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.csprojAssemblyReference.cache
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.AssemblyInfoInputs.cache
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.AssemblyInfo.cs
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\bin\Debug\netcoreapp3.1\Exemplo_Pilha.exe
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\bin\Debug\netcoreapp3.1\Exemplo_Pilha.deps.json
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\bin\Debug\netcoreapp3.1\Exemplo_Pilha.runtimeconfig.json
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\bin\Debug\netcoreapp3.1\Exemplo_Pilha.runtimeconfig.dev.json
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\bin\Debug\netcoreapp3.1\Exemplo_Pilha.dll
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\bin\Debug\netcoreapp3.1\Exemplo_Pilha.pdb
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.dll
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.pdb
+C:\Users\osmar\Documents\DigitalInnovationOne\DotNet_C#\Exemplo_Pilha\obj\Debug\netcoreapp3.1\Exemplo_Pilha.genruntimeconfig.cache
