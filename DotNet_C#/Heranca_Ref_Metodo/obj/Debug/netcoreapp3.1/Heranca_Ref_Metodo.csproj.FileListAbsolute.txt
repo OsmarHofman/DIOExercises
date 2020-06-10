@@ -1,0 +1,13 @@
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.csprojAssemblyReference.cache
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.AssemblyInfoInputs.cache
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.AssemblyInfo.cs
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\bin\Debug\netcoreapp3.1\Heranca_Ref_Metodo.exe
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\bin\Debug\netcoreapp3.1\Heranca_Ref_Metodo.deps.json
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\bin\Debug\netcoreapp3.1\Heranca_Ref_Metodo.runtimeconfig.json
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\bin\Debug\netcoreapp3.1\Heranca_Ref_Metodo.runtimeconfig.dev.json
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\bin\Debug\netcoreapp3.1\Heranca_Ref_Metodo.dll
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\bin\Debug\netcoreapp3.1\Heranca_Ref_Metodo.pdb
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.dll
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.pdb
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Heranca_Ref_Metodo\obj\Debug\netcoreapp3.1\Heranca_Ref_Metodo.genruntimeconfig.cache
