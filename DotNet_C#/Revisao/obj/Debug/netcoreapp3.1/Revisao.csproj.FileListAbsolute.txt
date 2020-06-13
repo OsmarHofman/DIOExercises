@@ -1,0 +1,13 @@
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\osmar\Documents\DIOExercises\DotNet_C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

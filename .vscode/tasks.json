@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/DotNet_C#/Heranca_Ref_Metodo/Heranca_Ref_Metodo.csproj",
+                "${workspaceFolder}/DotNet_C#/Revisao/Revisao.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/DotNet_C#/Heranca_Ref_Metodo/Heranca_Ref_Metodo.csproj",
+                "${workspaceFolder}/DotNet_C#/Revisao/Revisao.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/DotNet_C#/Heranca_Ref_Metodo/Heranca_Ref_Metodo.csproj",
+                "${workspaceFolder}/DotNet_C#/Revisao/Revisao.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
